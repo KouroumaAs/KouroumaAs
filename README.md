@@ -7,6 +7,7 @@
 ## 🔧 Resources
 
 - [Guide de connexion VS Code](GUIDE_VSCODE.md) - Guide complet pour configurer VS Code
+- [Guide Claude Code sur Mac](GUIDE_CLAUDE_MAC.md) - Installer et utiliser Claude IA avec VS Code sur Mac
 
 <!---
 KouroumaAs/KouroumaAs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
