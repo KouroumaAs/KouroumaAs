@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Aboubacar Sidiki KOUROUMA
-- 👀 I’m interested in learning computer science
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on github
+- 👋 Hi, I'm Aboubacar Sidiki KOUROUMA
+- 👀 I'm interested in learning computer science
+- 🌱 I'm currently learning c++
+- 💞️ I'm looking to collaborate on github
 - 📫 How to reach me? you can send me email on boubasid2000@yahoo.fr
+
+## 🔧 Resources
+
+- [Guide de connexion VS Code](GUIDE_VSCODE.md) - Guide complet pour configurer VS Code
 
 <!---
 KouroumaAs/KouroumaAs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
